@@ -47,8 +47,9 @@ Password: geheim
 # Known issues and how to solve them
 ```bash
 1.) The pgadmin4 webpage cannot be opened
-- Check if both containers are running, if not, restart the containers
-- Wait until the forwarded ports are visible in the Terminal
+- Check if both containers are running, if not, restart the containers.
+- Wait until the forwarded ports are visible in the Terminal.
+- Open pgadmin4 on port 5050.
 ```
 
 
